@@ -64,7 +64,7 @@ Tecnologias utilizadas no projeto:
 [![My Skills](https://skillicons.dev/icons?i=vue,sass,npm,vscode,vite,&theme=light)](https://skillicons.dev)
 
 - [VueJs](https://vuejs.org/guide/introduction.html) - O framework web utilizado
-- [Sass](https://sass-lang.com/documentation/) - Biblioteca usada para estilização
+- [Sass](https://sass-lang.com/documentation/) - Pré-processador CSS utilizado para estilização
 - [VITE](https://vite.dev/guide/) - Usado para fazer o build do projeto
 - [VS Code](https://code.visualstudio.com/) - IDE para construir a aplicação
 
