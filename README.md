@@ -35,7 +35,7 @@ git clone https://github.com/Le-Jr/vue-first-challenge.git
 cd vue-first-challenge
 ```
 
-### 2 Instale as dependências
+### 2. Instale as dependências
 
 ```bash
 npm install
